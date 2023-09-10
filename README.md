@@ -1,2 +1,1 @@
-# AbelRaju
-My personal repository
+Hi I am Abel Raju
