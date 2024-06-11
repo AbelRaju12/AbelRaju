@@ -3,7 +3,7 @@
 <h4>A 21st century Homosapien with a special passion for 0s and 1s and the astounding things these can accomplish</h4>
 
 <h3>About Me</h3>
-I am a tech enthusiast who is paasionate about everything related to computers. I completed my B.Tech in <b>2024</b> from <a href="https://ceconline.edu/">College of Engineering Chengannur</a>. I come with a bundle of information gained from varying online-courses from the famous <b>Python for everybody </b> to a <b>2-month technical training course on Data Science</b>. I mean to immediately to mend my lack of real-world experience.
+I am a tech enthusiast who is paasionate about everything related to computers. I completed my B.Tech in <b>2024</b> from <b>College of Engineering Chengannur</b>. I come with a bundle of information gained from varying online-courses from the famous <b>Python for everybody </b> to a <b>2-month technical training course on Data Science</b>. I mean to immediately to mend my lack of real-world experience.
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -35,7 +35,7 @@ I am a tech enthusiast who is paasionate about everything related to computers. 
 </p>
 
 <!-- Databases -->
-<h4 align="left">Databases:</h4>
+<h3 align="left">Databases:</h3>
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
@@ -47,7 +47,7 @@ I am a tech enthusiast who is paasionate about everything related to computers. 
 </p>
 
 <!-- Web Development -->
-<h4 align="left">Web Development:</h4>
+<h3 align="left">Web Development:</h3>
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" style="margin-right: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -68,7 +68,7 @@ I am a tech enthusiast who is paasionate about everything related to computers. 
 </p>
 
 <!-- Data Science and Machine Learning -->
-<h4 align="left">Data Science and Machine Learning:</h4>
+<h3 align="left">Data Science and Machine Learning:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
