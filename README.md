@@ -2,14 +2,14 @@
 <h1>Hi🤓 I am Abel Raju.</h1>
 <h3>A 21st century Homosapien with a special passion for 0s and 1s and the astounding things these can accomplish</h3>
 
-<h4 align="center">About Me</h4>
+<h4>About Me</h4>
 I am a tech enthusiast who is paasionate about everything related to computers. I completed my B.Tech in <b>2024</b> from <a href="https://ceconline.edu/">College of Engineering Chengannur</a>. I come with a bundle of information gained from varying from the famous <b>Python for everybody </b> to a <b>2-month technical training course on Data Science</b>. I mean to immediately to mend my lack of real-world experience.
 
 <h3 align="left">Languages and Tools:</h3>
 
 <!-- Main Programming Languages -->
 <p align="left">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 15px;"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer" style="margin-right: 50px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a>
   <a href="https://www.r-project.org/" target="_blank" rel="noreferrer" style="margin-right: 15px;"> 
