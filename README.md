@@ -3,7 +3,7 @@
 <h4>A 21st century Homosapien with a special passion for 0s and 1s and the astounding things these can accomplish</h4>
 
 <h3>About Me</h3>
-I am a tech enthusiast who is paasionate about everything related to computers. I completed my B.Tech in <b>2024</b> from <a href="https://ceconline.edu/">College of Engineering Chengannur</a>. I come with a bundle of information gained from varying from the famous <b>Python for everybody </b> to a <b>2-month technical training course on Data Science</b>. I mean to immediately to mend my lack of real-world experience.
+I am a tech enthusiast who is paasionate about everything related to computers. I completed my B.Tech in <b>2024</b> from <a href="https://ceconline.edu/">College of Engineering Chengannur</a>. I come with a bundle of information gained from varying online-courses from the famous <b>Python for everybody </b> to a <b>2-month technical training course on Data Science</b>. I mean to immediately to mend my lack of real-world experience.
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -43,6 +43,7 @@ I am a tech enthusiast who is paasionate about everything related to computers. 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
   </a>&nbsp&nbsp&nbsp&nbsp
+
 </p>
 
 <!-- Web Development -->
@@ -82,7 +83,7 @@ I am a tech enthusiast who is paasionate about everything related to computers. 
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> 
   </a>&nbsp&nbsp&nbsp&nbsp
   <a href="https://www.nltk.org/" target="_blank" rel="noreferrer" style="margin-right: 15px;"> 
-    <img src="https://www.nltk.org/images/nltk.png" alt="nltk" width="40" height="40"/> 
+    <img src="https://miro.medium.com/v2/resize:fit:592/1*YM2HXc7f4v02pZBEO8h-qw.png" alt="nltk" width="40" height="40"/> 
   </a>&nbsp&nbsp&nbsp&nbsp
   <a href="https://numpy.org/" target="_blank" rel="noreferrer" style="margin-right: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> 
@@ -97,7 +98,7 @@ I am a tech enthusiast who is paasionate about everything related to computers. 
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a>&nbsp&nbsp&nbsp&nbsp<br><br>
   <a href="https://www.tidyverse.org/" target="_blank" rel="noreferrer" style="margin-right: 15px;"> 
-    <img src="https://www.tidyverse.org/images/tidyverse-logo.png" alt="tidyverse" width="40" height="40"/> 
+    <img src="https://cdn.icon-icons.com/icons2/3915/PNG/512/tidyverse_logo_icon_249394.png" alt="tidyverse" width="40" height="40"/> 
   </a>&nbsp&nbsp&nbsp&nbsp
   <a href="https://dplyr.tidyverse.org/" target="_blank" rel="noreferrer" style="margin-right: 15px;"> 
     <img src="https://dplyr.tidyverse.org/logo.png" alt="dplyr" width="40" height="40"/> 
