@@ -3,7 +3,7 @@
 <h4>A 21st century Homosapien with a special passion for 0s and 1s and the astounding things these can accomplish</h4>
 
 <h3>About Me</h3>
-I am a tech enthusiast who is paasionate about everything related to computers. I completed my B.Tech in <b>2024</b> from <b>College of Engineering Chengannur</b>. I come with a bundle of information gained from varying online-courses from the famous <b>Python for everybody </b> to a <b>2-month technical training course on Data Science</b>. I mean to immediately to mend my lack of real-world experience.
+I am a tech enthusiast who is paasionate about everything related to computers. I completed my B.Tech from <b>College of Engineering Chengannur</b> in 2024. I come bundled with informations and knowledge gained from various online-courses that ranges from the famous <b>Python for everybody </b> to a <b>2-month technical training course on Data Science</b>. I mean to immediately to mend my lack of real-world experience.
 
 <h3 align="left">Languages and Tools:</h3>
 
